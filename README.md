@@ -28,8 +28,9 @@ npm start
 ## Open your browser and go to http://localhost:3000.
 
 <h3>Technologies Used</h3>
-React.js
-Tailwindcss
+
+1.React.js
+2.Tailwindcss
 
 <h3>Roadmap</h3>
 
