@@ -29,6 +29,7 @@ npm start
 
 <h3>Technologies Used</h3>
 React.js
+Tailwindcss
 
 <h3>Roadmap</h3>
 
